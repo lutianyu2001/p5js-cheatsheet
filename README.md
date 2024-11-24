@@ -1,6 +1,6 @@
 # 🎨 p5.js Cheatsheet for beginners
 
-*If you like this cheatsheet, please give me a star ⭐️ on [GitHub](https://github.com/suroot/p5js-cheatsheet)!*
+*If you like this cheatsheet, please give me a star ⭐️ on [GitHub](https://github.com/lutianyu2001/p5js-cheatsheet)!*
 
 Version 1.0
 
